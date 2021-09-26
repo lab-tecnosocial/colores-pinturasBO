@@ -1,3 +1,31 @@
+# React
+
+# dependencies
+selector-paletas/node_modules
+selector-paletas/.pnp
+selector-paletas/.pnp.js
+
+# testing
+selector-paletas/coverage
+
+# production
+selector-paletas/build
+selector-paletas/selector-paletas
+
+# misc
+.DS_Store
+selector-paletas/.DS_Store
+selector-paletas/.env.local
+selector-paletas/.env.development.local
+selector-paletas/.env.test.local
+selector-paletas/.env.production.local
+
+selector-paletas/npm-debug.log*
+selector-paletas/yarn-debug.log*
+selector-paletas/yarn-error.log*
+
+
+# R
 .Rproj.user
 .Rhistory
 .RData
