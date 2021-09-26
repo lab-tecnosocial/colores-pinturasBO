@@ -30,5 +30,5 @@ selector-paletas/yarn-error.log*
 .Rhistory
 .RData
 .Ruserdata
-.R
-.Rproj
+*.R
+*.Rproj
